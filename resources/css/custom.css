@@ -32,3 +32,9 @@
 .settings-page {
 	background-color: #ffffff !important;
 }
+.payment-method-logo-span {
+	width: 100px !important;
+}
+.payment-method-logo {
+	height: 40px !important;
+}
